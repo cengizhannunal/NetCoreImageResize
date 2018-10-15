@@ -1,0 +1,2 @@
+# NetCoreImageResize
+NetCoreImageResizeWithRedis
