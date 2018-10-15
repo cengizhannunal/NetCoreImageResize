@@ -1,0 +1,46 @@
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.deps.json
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.runtimeconfig.json
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.runtimeconfig.dev.json
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.dll
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.csprojAssemblyReference.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.csproj.CoreCompileInputs.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorAssemblyInfo.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorAssemblyInfo.cs
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.AssemblyInfoInputs.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.AssemblyInfo.cs
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorTargetAssemblyInfo.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.pdb
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.dll
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.pdb
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.Views.dll
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.Views.pdb
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.TagHelpers.input.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.TagHelpers.output.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorCoreGenerate.cache
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\Razor\Views\Default\Index.g.cshtml.cs
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorTargetAssemblyInfo.cs
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.Views.pdb
+C:\Users\CengizhanUnal\Documents\Visual Studio 2017\Projects\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.csproj.CopyComplete
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.deps.json
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.runtimeconfig.json
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.runtimeconfig.dev.json
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.dll
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.pdb
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.Views.dll
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\bin\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.Views.pdb
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.csprojAssemblyReference.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.csproj.CoreCompileInputs.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorAssemblyInfo.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorAssemblyInfo.cs
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.AssemblyInfoInputs.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.AssemblyInfo.cs
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.TagHelpers.input.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.TagHelpers.output.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorCoreGenerate.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\Razor\Views\Default\Index.g.cshtml.cs
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorTargetAssemblyInfo.cache
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.RazorTargetAssemblyInfo.cs
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.Views.pdb
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.dll
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.pdb
+C:\Users\cengizhan.unal\Desktop\NetCoreImageResizeWithRedis\NetCoreImageResizeWithRedis\obj\Debug\netcoreapp2.1\NetCoreImageResizeWithRedis.csproj.CopyComplete
